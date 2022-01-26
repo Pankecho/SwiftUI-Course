@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_CourseApp: App {
     var body: some Scene {
         WindowGroup {
-            TextExample()
+            ButtonExample()
         }
     }
 }
