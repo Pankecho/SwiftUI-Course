@@ -58,9 +58,9 @@
 				CBC1653E27A096500093F463 /* SwiftUI_CourseApp.swift */,
 				CBC1654027A096500093F463 /* TextExample.swift */,
 				CBC1654C27A096AB0093F463 /* StackExample.swift */,
+				CB74878927A0A2E200B8D097 /* CarouselExample.swift */,
 				CBC1654227A096510093F463 /* Assets.xcassets */,
 				CBC1654427A096510093F463 /* Preview Content */,
-				CB74878927A0A2E200B8D097 /* CarouselExample.swift */,
 			);
 			path = "SwiftUI Course";
 			sourceTree = "<group>";
