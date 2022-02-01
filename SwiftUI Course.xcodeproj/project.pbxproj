@@ -10,6 +10,7 @@
 		CB74878A27A0A2E200B8D097 /* CarouselExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB74878927A0A2E200B8D097 /* CarouselExample.swift */; };
 		CB74878C27A0CDC800B8D097 /* ButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB74878B27A0CDC800B8D097 /* ButtonExample.swift */; };
 		CB74878E27A22CAD00B8D097 /* StateBindingExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB74878D27A22CAD00B8D097 /* StateBindingExample.swift */; };
+		CBB63B2327A32C0200497AE7 /* PathChartsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB63B2227A32C0200497AE7 /* PathChartsExample.swift */; };
 		CBC1653F27A096500093F463 /* SwiftUI_CourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC1653E27A096500093F463 /* SwiftUI_CourseApp.swift */; };
 		CBC1654127A096500093F463 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC1654027A096500093F463 /* TextExample.swift */; };
 		CBC1654327A096510093F463 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC1654227A096510093F463 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		CB74878927A0A2E200B8D097 /* CarouselExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselExample.swift; sourceTree = "<group>"; };
 		CB74878B27A0CDC800B8D097 /* ButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExample.swift; sourceTree = "<group>"; };
 		CB74878D27A22CAD00B8D097 /* StateBindingExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingExample.swift; sourceTree = "<group>"; };
+		CBB63B2227A32C0200497AE7 /* PathChartsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathChartsExample.swift; sourceTree = "<group>"; };
 		CBC1653B27A096500093F463 /* SwiftUI Course.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Course.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBC1653E27A096500093F463 /* SwiftUI_CourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_CourseApp.swift; sourceTree = "<group>"; };
 		CBC1654027A096500093F463 /* TextExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExample.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				CB74878927A0A2E200B8D097 /* CarouselExample.swift */,
 				CB74878B27A0CDC800B8D097 /* ButtonExample.swift */,
 				CB74878D27A22CAD00B8D097 /* StateBindingExample.swift */,
+				CBB63B2227A32C0200497AE7 /* PathChartsExample.swift */,
 				CBC1654227A096510093F463 /* Assets.xcassets */,
 				CBC1654427A096510093F463 /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				CB74878C27A0CDC800B8D097 /* ButtonExample.swift in Sources */,
 				CBC1654D27A096AB0093F463 /* StackExample.swift in Sources */,
+				CBB63B2327A32C0200497AE7 /* PathChartsExample.swift in Sources */,
 				CB74878E27A22CAD00B8D097 /* StateBindingExample.swift in Sources */,
 				CBC1654127A096500093F463 /* TextExample.swift in Sources */,
 				CB74878A27A0A2E200B8D097 /* CarouselExample.swift in Sources */,
