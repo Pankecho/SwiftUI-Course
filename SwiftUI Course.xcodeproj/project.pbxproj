@@ -13,6 +13,7 @@
 		CB7A5E3627A8B77800D52E27 /* AnimationsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7A5E3527A8B77800D52E27 /* AnimationsExample.swift */; };
 		CB886BF127AB59BC00958076 /* TransitionsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB886BF027AB59BC00958076 /* TransitionsExample.swift */; };
 		CB886BF327AB5D0400958076 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB886BF227AB5D0400958076 /* ListExample.swift */; };
+		CB886BF527ACB21D00958076 /* NavigationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB886BF427ACB21D00958076 /* NavigationExample.swift */; };
 		CBB63B2327A32C0200497AE7 /* PathChartsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB63B2227A32C0200497AE7 /* PathChartsExample.swift */; };
 		CBC1653F27A096500093F463 /* SwiftUI_CourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC1653E27A096500093F463 /* SwiftUI_CourseApp.swift */; };
 		CBC1654127A096500093F463 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC1654027A096500093F463 /* TextExample.swift */; };
@@ -28,6 +29,7 @@
 		CB7A5E3527A8B77800D52E27 /* AnimationsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsExample.swift; sourceTree = "<group>"; };
 		CB886BF027AB59BC00958076 /* TransitionsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionsExample.swift; sourceTree = "<group>"; };
 		CB886BF227AB5D0400958076 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
+		CB886BF427ACB21D00958076 /* NavigationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExample.swift; sourceTree = "<group>"; };
 		CBB63B2227A32C0200497AE7 /* PathChartsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathChartsExample.swift; sourceTree = "<group>"; };
 		CBC1653B27A096500093F463 /* SwiftUI Course.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Course.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBC1653E27A096500093F463 /* SwiftUI_CourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_CourseApp.swift; sourceTree = "<group>"; };
@@ -76,9 +78,10 @@
 				CBB63B2227A32C0200497AE7 /* PathChartsExample.swift */,
 				CB7A5E3527A8B77800D52E27 /* AnimationsExample.swift */,
 				CB886BF027AB59BC00958076 /* TransitionsExample.swift */,
+				CB886BF227AB5D0400958076 /* ListExample.swift */,
+				CB886BF427ACB21D00958076 /* NavigationExample.swift */,
 				CBC1654227A096510093F463 /* Assets.xcassets */,
 				CBC1654427A096510093F463 /* Preview Content */,
-				CB886BF227AB5D0400958076 /* ListExample.swift */,
 			);
 			path = "SwiftUI Course";
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				CBC1654D27A096AB0093F463 /* StackExample.swift in Sources */,
 				CB886BF127AB59BC00958076 /* TransitionsExample.swift in Sources */,
 				CB886BF327AB5D0400958076 /* ListExample.swift in Sources */,
+				CB886BF527ACB21D00958076 /* NavigationExample.swift in Sources */,
 				CBB63B2327A32C0200497AE7 /* PathChartsExample.swift in Sources */,
 				CB74878E27A22CAD00B8D097 /* StateBindingExample.swift in Sources */,
 				CBC1654127A096500093F463 /* TextExample.swift in Sources */,

@@ -25,11 +25,15 @@ struct ListExample: View {
     var body: some View {
         List {
             ForEach(restaurants, id: \.id) { restaurant in
-                Article(title: restaurant.name,
-                        image: restaurant.image,
-                        author: restaurant.name,
-                        rating: 5,
-                        description: restaurant.name)
+                ImageRow(name: restaurant.name,
+                         image: restaurant.image)
+                /*
+                 Article(title: restaurant.name,
+                         image: restaurant.image,
+                         author: restaurant.name,
+                         rating: 5,
+                         description: restaurant.name)
+                 */
             }
         }
     }
@@ -41,7 +45,7 @@ struct ListExample_Previews: PreviewProvider {
     }
 }
 
-struct Restaurant {
+struct Restaurant: Identifiable {
     let id = UUID()
     let name: String
     let image: String
