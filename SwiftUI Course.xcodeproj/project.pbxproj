@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CB7293B527C0761600C0F592 /* FormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7293B427C0761600C0F592 /* FormExample.swift */; };
+		CB7293B727C0D53800C0F592 /* RegistrationFormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7293B627C0D53800C0F592 /* RegistrationFormExample.swift */; };
 		CB74878A27A0A2E200B8D097 /* CarouselExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB74878927A0A2E200B8D097 /* CarouselExample.swift */; };
 		CB74878C27A0CDC800B8D097 /* ButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB74878B27A0CDC800B8D097 /* ButtonExample.swift */; };
 		CB74878E27A22CAD00B8D097 /* StateBindingExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB74878D27A22CAD00B8D097 /* StateBindingExample.swift */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		CB7293B427C0761600C0F592 /* FormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormExample.swift; sourceTree = "<group>"; };
+		CB7293B627C0D53800C0F592 /* RegistrationFormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationFormExample.swift; sourceTree = "<group>"; };
 		CB74878927A0A2E200B8D097 /* CarouselExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselExample.swift; sourceTree = "<group>"; };
 		CB74878B27A0CDC800B8D097 /* ButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExample.swift; sourceTree = "<group>"; };
 		CB74878D27A22CAD00B8D097 /* StateBindingExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingExample.swift; sourceTree = "<group>"; };
@@ -85,9 +87,10 @@
 				CB886BF227AB5D0400958076 /* ListExample.swift */,
 				CB886BF427ACB21D00958076 /* NavigationExample.swift */,
 				CB886BF627ACBB7500958076 /* ModalExample.swift */,
+				CB7293B427C0761600C0F592 /* FormExample.swift */,
+				CB7293B627C0D53800C0F592 /* RegistrationFormExample.swift */,
 				CBC1654227A096510093F463 /* Assets.xcassets */,
 				CBC1654427A096510093F463 /* Preview Content */,
-				CB7293B427C0761600C0F592 /* FormExample.swift */,
 			);
 			path = "SwiftUI Course";
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				CB74878A27A0A2E200B8D097 /* CarouselExample.swift in Sources */,
 				CBC1653F27A096500093F463 /* SwiftUI_CourseApp.swift in Sources */,
 				CB7293B527C0761600C0F592 /* FormExample.swift in Sources */,
+				CB7293B727C0D53800C0F592 /* RegistrationFormExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
